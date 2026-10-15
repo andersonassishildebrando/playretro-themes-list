@@ -1,0 +1,3319 @@
+{
+    "comment": "Themes for Play Retro",
+    "website": "https://github.com/andersonassishildebrando/playretro",
+    "latestStableRelease": "53",
+    "themes": [
+        {
+            "name": "Adroit",
+            "reponame": "adroit",
+            "url": "https://github.com/RickAndTired/adroit-es-de.git",
+            "author": "Rick",
+            "newEntry": false,
+            "variants": [
+                "Grid Covers",
+                "Grid Logos",
+                "List",
+                "List No Art"
+            ],
+            "colorSchemes": [
+                "Dark",
+                "Light",
+                "Animated"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide",
+                "Fade"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Alekfull NX (Revisited)",
+            "reponame": "alekfull-nx",
+            "url": "https://github.com/anthonycaccese/alekfull-nx-es-de.git",
+            "author": "ant and fagnerpc",
+            "newEntry": false,
+            "variants": [
+                "List: Metadata & Miximage",
+                "List: Metadata & Boxart",
+                "List: Miximage",
+                "List: Boxart"
+            ],
+            "colorSchemes": [
+                "Light",
+                "Dark",
+                "Light (Custom Images)",
+                "Dark (Custom Images)"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Analogue 3D OS Menu",
+            "reponame": "analogue-3d-menu",
+            "url": "https://github.com/seanfletchr/analogue-3d-menu-es-de.git",
+            "author": "Sean",
+            "newEntry": false,
+            "variants": [
+                "Carousel (Carts)",
+                "Carousel (Covers)",
+                "Carousel (Caps)",
+                "List",
+                "Grid (Large)",
+                "Grid (Small)",
+                "Gallery (Fit)",
+                "Gallery (Fill)"
+            ],
+            "colorSchemes": [
+                "No Background",
+                "Screenshot (Static)",
+                "Title Screen (Static)",
+                "Fanart (Static)",
+                "Screenshot (Video)",
+                "Title Screen (Video)",
+                "Fanart (Video)",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "8:7",
+                "1:1"
+            ],
+            "languages": [
+                "en_US",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Analogue OS Menu",
+            "reponame": "analogue-os-menu",
+            "url": "https://github.com/anthonycaccese/analogue-os-menu-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "variants": [
+                "List",
+                "Carousel",
+                "Grid"
+            ],
+            "colorSchemes": [
+                "Dark",
+                "Light",
+                "Custom"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "19.5:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Art Book Next",
+            "reponame": "art-book-next",
+            "url": "https://github.com/anthonycaccese/art-book-next-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "variants": [
+                "List: Metadata & Boxart",
+                "List: Metadata & Screenshot + Marquee",
+                "List: Metadata & Screenshot + Boxart",
+                "List: Metadata & Miximage",
+                "List: Boxart",
+                "List: Screenshot + Marquee",
+                "List",
+                "Grid: Boxart",
+                "Grid: Boxart (SteamGridDB)",
+                "Grid: Screenshot",
+                "[Help Off] List: Metadata & Boxart",
+                "[Help Off] List: Metadata & Screenshot + Marquee",
+                "[Help Off] List: Metadata & Screenshot + Boxart",
+                "[Help Off] List: Metadata & Miximage",
+                "[Help Off] List: Boxart",
+                "[Help Off] List: Screenshot + Marquee",
+                "[Help Off] List",
+                "[Help Off] Grid: Boxart",
+                "[Help Off] Grid: Boxart (SteamGridDB)",
+                "[Help Off] Grid: Screenshot"
+            ],
+            "colorSchemes": [
+                "Dark [Screenshots]",
+                "Dark [Noir]",
+                "Dark [Circuit]",
+                "Dark [Outline]",
+                "Dark [Original Screenshots]",
+                "OLED [Screenshots]",
+                "OLED [Noir]",
+                "OLED [Circuit]",
+                "OLED [Outline]",
+                "OLED [Original Screenshots]",
+                "Light [Screenshots]",
+                "Light [Noir]",
+                "Light [Circuit]",
+                "Light [Outline]",
+                "Light [Original Screenshots]",
+                "Steam OS [Screenshots]",
+                "Steam OS [Noir]",
+                "Steam OS [Circuit]",
+                "Steam OS [Outline]",
+                "Steam OS [Original Screenshots]",
+                "SNES [Screenshots]",
+                "SNES [Noir]",
+                "SNES [Circuit]",
+                "SNES [Outline]",
+                "SNES [Original Screenshots]",
+                "Famicom [Screenshots]",
+                "Famicom [Noir]",
+                "Famicom [Circuit]",
+                "Famicom [Outline]",
+                "Famicom [Original Screenshots]",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:3_vertical",
+                "5:4",
+                "8:7",
+                "19.5:9",
+                "20:9",
+                "21:9",
+                "32:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Artflix (Revisited)",
+            "reponame": "artflix-revisited",
+            "url": "https://github.com/TheGrizzMD/artflix-revisited-es-de.git",
+            "author": "TheGrizzMD and Alekfull",
+            "newEntry": false,
+            "variants": [
+                "Default",
+                "Default Immersive",
+                "Covers Carousel",
+                "Covers Carousel Immersive"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Atari 50 Menu",
+            "reponame": "atari-50-menu",
+            "url": "https://github.com/anthonycaccese/atari-50-menu-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Aura",
+            "reponame": "aura",
+            "url": "https://github.com/Siddy212/aura-es-de.git",
+            "author": "Siddy212",
+            "newEntry": false,
+            "variants": [
+                "[Carousel] Textlist",
+                "[Carousel] Detailed-Grid",
+                "[Carousel] Detailed-Grid (Help Off)",
+                "[Carousel] Basic-Grid",
+                "[Carousel] Basic-Grid (Help Off)",
+                "[Carousel] Carousel-Marquee",
+                "[Carousel] Carousel-Boxart",
+                "[Carousel] Carousel-Boxart (Immersive)",
+                "[Fullscreen] Textlist",
+                "[Fullscreen] Detailed-Grid",
+                "[Fullscreen] Detailed-Grid (Help Off)",
+                "[Fullscreen] Basic-Grid",
+                "[Fullscreen] Basic-Grid (Help Off)",
+                "[Fullscreen] Carousel-Marquee",
+                "[Fullscreen] Carousel-Boxart",
+                "[Fullscreen] Carousel-Boxart (Immersive)",
+                "[Grid] Textlist",
+                "[Grid] Detailed-Grid",
+                "[Grid] Detailed-Grid (Help Off)",
+                "[Grid] Basic-Grid",
+                "[Grid] Basic-Grid (Help Off)",
+                "[Grid] Carousel-Marquee",
+                "[Grid] Carousel-Boxart",
+                "[Grid] Carousel-Boxart (Immersive)"
+            ],
+            "colorSchemes": [
+                "[Controller] Violet",
+                "[Controller] Purple",
+                "[Controller] Blue",
+                "[Controller] Green",
+                "[Controller] Orange",
+                "[Controller] Black",
+                "[Controller] Pocket Light",
+                "[Controller] Pocket Dark",
+                "[Logo] Violet",
+                "[Logo] Purple",
+                "[Logo] Blue",
+                "[Logo] Green",
+                "[Logo] Orange",
+                "[Logo] Black",
+                "[Logo] Pocket Light",
+                "[Logo] Pocket Dark",
+                "[Art] Light Glass",
+                "[Art] Dark Glass",
+                "[Art] Violet",
+                "[Art] Purple",
+                "[Art] Blue",
+                "[Art] Green",
+                "[Art] Orange",
+                "[Art] Black",
+                "[Art] Pocket Light",
+                "[Art] Pocket Dark"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "8:7",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "BASIC",
+            "reponame": "basic",
+            "url": "https://github.com/Weestuarty-es-de/basic-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "ZX Spectrum",
+                "Commodore 64",
+                "Amstrad CPC"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Canvas",
+            "reponame": "canvas",
+            "url": "https://github.com/Siddy212/canvas-es-de.git",
+            "author": "Siddy212",
+            "newEntry": false,
+            "variants": [
+                "[Grid] Textlist",
+                "[Grid] Textlist - Flipped",
+                "[Grid] Carousel: Marquee",
+                "[Grid] Carousel: Boxart",
+                "[Grid] Grid: Basic",
+                "[Grid] Grid: Detailed",
+                "[Grid] Grid: Detailed - Flipped",
+                "[Grid] Row",
+                "[Carousel] Textlist",
+                "[Carousel] Textlist - Flipped",
+                "[Carousel] Carousel: Marquee",
+                "[Carousel] Carousel: Boxart",
+                "[Carousel] Grid: Basic",
+                "[Carousel] Grid: Detailed",
+                "[Carousel] Grid: Detailed - Flipped",
+                "[Carousel] Row"
+            ],
+            "colorSchemes": [
+                "[Capsule] Dark",
+                "[Capsule] Light",
+                "[Capsule] Retro",
+                "[Capsule] Pocket Light",
+                "[Capsule] Pocket Medium",
+                "[Capsule] Pocket Dark",
+                "[Capsule] Neon",
+                "[Capsule] Pastel",
+                "[Capsule] Sony",
+                "[Capsule] NES",
+                "[Capsule] SNES",
+                "[Capsule] Famicom",
+                "[Controller] Dark",
+                "[Controller] Light",
+                "[Controller] Retro",
+                "[Controller] Pocket Light",
+                "[Controller] Pocket Medium",
+                "[Controller] Pocket Dark",
+                "[Controller] Neon",
+                "[Controller] Pastel",
+                "[Controller] Sony",
+                "[Controller] NES",
+                "[Controller] SNES",
+                "[Controller] Famicom",
+                "[Logo] Dark",
+                "[Logo] Light",
+                "[Logo] Retro",
+                "[Logo] Pocket Light",
+                "[Logo] Pocket Medium",
+                "[Logo] Pocket Dark",
+                "[Logo] Neon",
+                "[Logo] Pastel",
+                "[Logo] Sony",
+                "[Logo] NES",
+                "[Logo] SNES",
+                "[Logo] Famicom",
+                "[Screenshot] Dark",
+                "[Screenshot] Light",
+                "[Screenshot] Retro",
+                "[Screenshot] Pocket Light",
+                "[Screenshot] Pocket Medium",
+                "[Screenshot] Pocket Dark",
+                "[Screenshot] Neon",
+                "[Screenshot] Pastel",
+                "[Screenshot] Sony",
+                "[Screenshot] NES",
+                "[Screenshot] SNES",
+                "[Screenshot] Famicom",
+                "[Art] Dark",
+                "[Art] Light",
+                "[Art] Retro",
+                "[Art] Pocket Light",
+                "[Art] Pocket Medium",
+                "[Art] Pocket Dark",
+                "[Art] Neon",
+                "[Art] Pastel",
+                "[Art] Sony",
+                "[Art] NES",
+                "[Art] SNES",
+                "[Art] Famicom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "8:7",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "CarAlt",
+            "reponame": "caralt",
+            "url": "https://github.com/Weestuarty-es-de/caralt-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "With videos",
+                "Without videos"
+            ],
+            "colorSchemes": [
+                "Gold",
+                "Black & white",
+                "Blue",
+                "Gameboy",
+                "Gameboy Shell",
+                "Retro",
+                "Stay Classy",
+                "Commodore 64",
+                "Chilled",
+                "Purple Rain",
+                "Rusty",
+                "Sega"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Carbon",
+            "reponame": "carbon",
+            "url": "https://github.com/lilbud/carbon-es-de.git",
+            "author": "lilbud and Rookervik",
+            "newEntry": false,
+            "colorSchemes": [
+                "Red",
+                "Blue",
+                "Green",
+                "Yellow",
+                "Orange",
+                "Purple",
+                "Teal",
+                "Pink"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Cathode",
+            "reponame": "cathode",
+            "url": "https://github.com/hplant6/cathode-es-de.git",
+            "author": "Hplant6",
+            "newEntry": false,
+            "variants": [
+                "Carousels - 3D Box Art",
+                "Carousels - Cover Image",
+                "Carousel/System, Grid/Games",
+                "Carousel/System, List/Games",
+                "Grids",
+                "Grid/System, Carousel Box/Games",
+                "Grid/System, Carousel Cover/Games",
+                "Grid/System, List/Games",
+                "Lists",
+                "List/System, Carousel Box/Games",
+                "List/System, Carousel Cover/Games",
+                "List/System, Grid/Games",
+                "Low-end Devices"
+            ],
+            "colorSchemes": [
+                "Classic(Red)",
+                "Classic(Red)[Images]",
+                "Classic(Red)[No Videos]",
+                "Classic(Red)[No Clock]",
+                "Classic(Blue)",
+                "Classic(Blue)[Images]",
+                "Classic(Blue)[No Videos]",
+                "Classic(Yellow)",
+                "Classic(Yellow)[Images]",
+                "Classic(Yellow)[No Videos]",
+                "Cyber Neon",
+                "Cyber Neon [Images]",
+                "Cyber Neon [No Videos]",
+                "Cyber Teal",
+                "Cyber Teal [Images]",
+                "Cyber Teal [No Videos]",
+                "Resident Eerie",
+                "Resident Eerie [Images]",
+                "Resident Eerie [No Videos]",
+                "Nautical",
+                "Nautical [Images]",
+                "Nautical [No Videos]",
+                "Grape",
+                "Grape [Images]",
+                "Grape [No Videos]",
+                "Gameboy",
+                "Gameboy [Images]",
+                "Gameboy [No Videos]",
+                "Xbox Live",
+                "Xbox Live [Images]",
+                "Xbox Live [No Videos]",
+                "Virtualboy",
+                "Virtualboy [Images]",
+                "Virtualboy [No Videos]",
+                "Orange Phosphor",
+                "Orange Phosphor [Images]",
+                "Orange Phosphor [No Videos]"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:3_vertical",
+                "21:9"
+            ],
+            "transitions": [
+                "Default",
+                "Fading",
+                "Slide",
+                "Instant",
+                "Fade"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Catppuccin",
+            "reponame": "catppuccin",
+            "url": "https://github.com/RobZombie9043/catppuccin-es-de.git",
+            "author": "Rob Zombie",
+            "newEntry": false,
+            "variants": [
+                "[Grid] Grid",
+                "[Grid] List: Basic",
+                "[Grid] List: Detailed",
+                "[List] Grid",
+                "[List] List: Basic",
+                "[List] List: Detailed"
+            ],
+            "colorSchemes": [
+                "Mocha",
+                "Macchiato",
+                "Frappé",
+                "Latte"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "8:7",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Chicuelo (Revisited)",
+            "reponame": "chicuelo-revisited",
+            "url": "https://github.com/anthonycaccese/chicuelo-revisited-es-de.git",
+            "author": "ant and Chicuelo",
+            "newEntry": false,
+            "variants": [
+                "Artwork: Screenshots",
+                "Artwork: Video",
+                "Artwork: Chicuelo"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "CodyWheel",
+            "reponame": "codywheel",
+            "url": "https://github.com/Weestuarty-es-de/codywheel-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Text Gamelist",
+                "Carousel Gamelist",
+                "Grid Gamelist"
+            ],
+            "colorSchemes": [
+                "Black n White",
+                "Gold",
+                "Blue",
+                "Gameboy",
+                "Hitman",
+                "Retro",
+                "Stay Classy",
+                "Black n Blue",
+                "Chilled",
+                "Purple Rain",
+                "Rusty",
+                "Sega",
+                "PS2",
+                "Neon Red",
+                "Dark Void",
+                "Choco-Banana",
+                "Gotham Clown",
+                "Sakura no Hana",
+                "Clean Yellow",
+                "Clean Red"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "ro_RO",
+                "ru_RU",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "CoinOPS",
+            "reponame": "coinops",
+            "url": "https://github.com/TheGrizzMD/coinops-es-de.git",
+            "author": "TheGrizzMD, gjsmsmith, BritneysPAIRS and fagnerpc",
+            "newEntry": false,
+            "variants": [
+                "Default",
+                "No Hue",
+                "Simple",
+                "Simple With Cover Art",
+                "Default: Grid"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Colorful (Pop!)",
+            "reponame": "colorful-pop",
+            "url": "https://github.com/RobZombie9043/colorful-pop-es-de.git",
+            "author": "Rob Zombie, ant and viking",
+            "newEntry": false,
+            "variants": [
+                "List (video)",
+                "List (detailed)",
+                "Carousel",
+                "Carousel (video)"
+            ],
+            "colorSchemes": [
+                "[Pop Images] (Colorful) Light",
+                "[Pop Images] (Colorful) Dark",
+                "[Pop Images] (Colorful) Black",
+                "[Pop Images] (Mono) Light",
+                "[Pop Images] (Mono) Dark",
+                "[Pop Images] (Mono) Black",
+                "[Colorful Images] (Colorful) Light",
+                "[Colorful Images] (Colorful) Dark",
+                "[Colorful Images] (Colorful) Black",
+                "[Colorful Images] (Mono) Light",
+                "[Colorful Images] (Mono) Dark",
+                "[Colorful Images] (Mono) Black"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "19.5:9",
+                "21:9"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Colorful (Revisited)",
+            "reponame": "colorful-revisited",
+            "url": "https://github.com/anthonycaccese/colorful-revisited-es-de.git",
+            "author": "ant and viking",
+            "newEntry": false,
+            "colorSchemes": [
+                "Light",
+                "Dark",
+                "Black"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Colorful (Simplified)",
+            "reponame": "colorful-simplified",
+            "url": "https://github.com/anthonycaccese/colorful-simplified-es-de.git",
+            "author": "ant and viking",
+            "newEntry": false,
+            "variants": [
+                "List: Boxart",
+                "List: Miximage",
+                "List: Screenshot",
+                "List: Screenshot + Marquee",
+                "List: Title Screen",
+                "List: Physical Media",
+                "List: Metadata & Boxart",
+                "List: Metadata & Miximage",
+                "List: Metadata & Screenshot",
+                "List: Metadata & Screenshot + Marquee",
+                "List: Metadata & Title Screen",
+                "List: Metadata & Physical Media",
+                "Carousel: Boxart"
+            ],
+            "colorSchemes": [
+                "Colorful",
+                "Light",
+                "Retro Bright",
+                "DMG",
+                "Dark",
+                "OLED"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Compendium",
+            "reponame": "compendium",
+            "url": "https://github.com/RobZombie9043/compendium-es-de.git",
+            "author": "Rob Zombie",
+            "newEntry": false,
+            "variants": [
+                "Screenshot",
+                "Video (instant)",
+                "Video (delay)"
+            ],
+            "colorSchemes": [
+                "Dracula",
+                "Alucard"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "8:7",
+                "19.5:9",
+                "21:9",
+                "32:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "DEcaffe",
+            "reponame": "decaffe",
+            "url": "https://github.com/Weestuarty-es-de/decaffe-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Solid w Meta",
+                "Solid w/o Meta",
+                "Color w Meta",
+                "Color w/o Meta"
+            ],
+            "colorSchemes": [
+                "Blue dark",
+                "Yellow",
+                "Classy",
+                "Hyrule",
+                "Blue light",
+                "Purple",
+                "Greyscale"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Diamond",
+            "reponame": "diamond",
+            "url": "https://github.com/Weestuarty-es-de/diamond-es-de.git",
+            "author": "Weestuarty and GreatFlash",
+            "newEntry": false,
+            "variants": [
+                "Color w/ text alt",
+                "Color w/ text gamelist",
+                "Color w/ grid gamelist",
+                "Solid w/ text alt",
+                "Solid w/ text gamelist",
+                "Solid w/ grid gameslist"
+            ],
+            "colorSchemes": [
+                "Blue dark",
+                "Yellow",
+                "Classy",
+                "Hyrule",
+                "Blue light",
+                "Purple",
+                "Greyscale"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Slide",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "DS",
+            "reponame": "ds",
+            "url": "https://github.com/Weestuarty-es-de/ds-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Grid",
+                "Carousel",
+                "R4"
+            ],
+            "colorSchemes": [
+                "DS",
+                "DS Dark",
+                "NES",
+                "Famicom",
+                "Gold",
+                "OLED",
+                "Blueprint"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide",
+                "Fade"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Elegance",
+            "reponame": "elegance",
+            "url": "https://github.com/Weestuarty-es-de/elegance-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Solid with Videos",
+                "Solid no Videos",
+                "Color with Videos",
+                "Color no Videos"
+            ],
+            "colorSchemes": [
+                "Yellow",
+                "Classy",
+                "Hyrule",
+                "White/Blue",
+                "Grey/Blue",
+                "Grey/Purple",
+                "White/Red"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Elementerial",
+            "reponame": "elementerial",
+            "url": "https://github.com/RobZombie9043/elementerial-es-de.git",
+            "author": "Rob Zombie and mluizvitor",
+            "newEntry": false,
+            "variants": [
+                "[Modern] List: Basic View",
+                "[Modern] List: Video View",
+                "[Modern] List: Detailed View",
+                "[Modern] Elementflix View",
+                "[Modern] Grid View (Small)",
+                "[Modern] Grid View (Large)",
+                "[Classic] List: Basic View",
+                "[Classic] List: Video View",
+                "[Classic] List: Detailed View",
+                "[Classic] Elementflix View",
+                "[Classic] Grid View (Small)",
+                "[Classic] Grid View (Large)",
+                "[Video] List: Basic View",
+                "[Video] List: Video View",
+                "[Video] List: Detailed View",
+                "[Video] Elementflix View",
+                "[Video] Grid View (Small)",
+                "[Video] Grid View (Large)"
+            ],
+            "colorSchemes": [
+                "Dark - Strawberry",
+                "Dark - Orange",
+                "Dark - Banana",
+                "Dark - Lime",
+                "Dark - Mint",
+                "Dark - Blueberry",
+                "Dark - Grape",
+                "Dark - Bubblegum",
+                "Dark - Cocoa",
+                "Dark - Slate",
+                "Dark - SNES",
+                "Dark - Gameboy",
+                "Dark - Pikachu Edition",
+                "Dark - Red Fruits",
+                "Light - Strawberry",
+                "Light - Orange",
+                "Light - Banana",
+                "Light - Lime",
+                "Light - Mint",
+                "Light - Blueberry",
+                "Light - Grape",
+                "Light - Bubblegum",
+                "Light - Cocoa",
+                "Light - Slate",
+                "Light - SNES",
+                "Light - Gameboy",
+                "Light - Pikachu Edition",
+                "Light - Red Fruits"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Epic Noir (Next)",
+            "reponame": "epic-noir-next",
+            "url": "https://github.com/anthonycaccese/epic-noir-next-es-de.git",
+            "author": "ant and Chicuelo",
+            "newEntry": false,
+            "variants": [
+                "Grid: Marquees",
+                "Grid: Screenshots",
+                "Grid: Physical Media",
+                "Grid: Covers",
+                "Grid: Title Screens",
+                "Grid: No Metadata"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Epic Noir (Revisited)",
+            "reponame": "epic-noir-revisited",
+            "url": "https://github.com/anthonycaccese/epic-noir-revisited-es-de.git",
+            "author": "ant, dragoonDorise, c64-dev and Chicuelo",
+            "newEntry": false,
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "ES-Boy",
+            "reponame": "esboy",
+            "url": "https://github.com/Weestuarty-es-de/esboy-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Textlist with videos",
+                "Textlist without videos"
+            ],
+            "colorSchemes": [
+                "Green",
+                "Grey",
+                "Gold"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide",
+                "Fade"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "ES-DE-Mini",
+            "reponame": "mini",
+            "url": "https://github.com/Weestuarty-es-de/mini-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Super Nintendo (List)",
+                "UsnesA UsnesA (List)",
+                "Nintendo (List)",
+                "Mega Drive (List)",
+                "Master System (List)",
+                "PlayStation (List)",
+                "Super Nintendo (Grid)",
+                "UsnesA UsnesA (Grid)",
+                "Nintendo (Grid)",
+                "Mega Drive (Grid)",
+                "Master System (Grid)",
+                "PlayStation (Grid)"
+            ],
+            "colorSchemes": [
+                "SNES",
+                "USNESA",
+                "NES",
+                "Famicon",
+                "Sega",
+                "Master System",
+                "Hystoria",
+                "Hystoria ALT",
+                "Limited Edition",
+                "Its a Mario",
+                "Mrs LEphant",
+                "Gold"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "ES-DWEE",
+            "reponame": "es-dwee",
+            "url": "https://github.com/Weestuarty-es-de/es-dwee-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Textlist",
+                "Fullscreen",
+                "Grid"
+            ],
+            "colorSchemes": [
+                "Blue",
+                "Gold",
+                "Cube",
+                "Rose",
+                "Famiwii",
+                "Retro",
+                "Retro Power",
+                "RetroDECK",
+                "Gameboy"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "21:9"
+            ],
+            "transitions": [
+                "Slide",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Escape",
+            "reponame": "escape",
+            "url": "https://github.com/RobZombie9043/escape-es-de.git",
+            "author": "Rob Zombie",
+            "newEntry": false,
+            "variants": [
+                "[Animated] Watchtower Distant",
+                "[Animated] Lakeside",
+                "[Animated] Watchtower Close-Up",
+                "[Animated] Monado",
+                "[Animated] Outset Island",
+                "[Still] Watchtower Distant",
+                "[Still] Lakeside",
+                "[Still] Watchtower Close-Up",
+                "[Still] Monado",
+                "[Still] Outset Island"
+            ],
+            "colorSchemes": [
+                "Dawn",
+                "Sunrise",
+                "Early Morning",
+                "Day",
+                "Golden Hour",
+                "Sunset",
+                "Dusk",
+                "Night"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "19.5:9",
+                "21:9",
+                "32:9",
+                "1:1"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "ro_RO",
+                "ru_RU",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "ForAll",
+            "reponame": "forall",
+            "url": "https://github.com/Weestuarty-es-de/forall-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Dyslexia w videos",
+                "Dyslexia w/o videos",
+                "Impaired w videos",
+                "Impaired w/o videos"
+            ],
+            "colorSchemes": [
+                "Mono",
+                "Mono Variant",
+                "IBM",
+                "IBM Variant",
+                "Bang Wong",
+                "Bang Wong Variant",
+                "Paul Tol",
+                "Paul Tol Variant"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Game OS",
+            "reponame": "gameos",
+            "url": "https://github.com/lilbud/gameos-es-de.git",
+            "author": "lilbud and PlayingKarrde",
+            "newEntry": false,
+            "variants": [
+                "Default",
+                "Grid (3 Columns)",
+                "Grid (4 Columns)",
+                "Grid (5 Columns)",
+                "Grid (6 Columns)",
+                "Grid (7 Columns)",
+                "Grid (8 Columns)"
+            ],
+            "colorSchemes": [
+                "Game OS",
+                "Dark OS Blue",
+                "Dark OS Brown",
+                "Dark OS Gray",
+                "Dark OS Green",
+                "Dark OS Pink",
+                "Dark OS Red",
+                "Dark OS Light Blue",
+                "Dark OS Light Brown",
+                "Dark OS Light Gray",
+                "Dark OS Light Green",
+                "Dark OS Light Pink",
+                "Dark OS Light Red",
+                "Dark OS Magenta",
+                "Dark OS Orange",
+                "Dark OS Purple",
+                "Dark OS Steel",
+                "Dark OS Stone",
+                "Dark OS Turquoise",
+                "Dark OS Yellow"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Grimmlex",
+            "reponame": "grimmlex",
+            "url": "https://gitlab.com/thraeg-group/grimmlex-es-de.git",
+            "author": "Thraeg",
+            "newEntry": false,
+            "variants": [
+                "[LogoGrid] M",
+                "[LogoGrid] S",
+                "[LogoGrid] L",
+                "[LogoGrid] XL",
+                "[LogoGrid] XXL",
+                "[WordGrid] S",
+                "[WordGrid] M",
+                "[WordGrid] L",
+                "[WordGrid] XL",
+                "[WordGrid] XXL",
+                "[PixelGrid] S",
+                "[PixelGrid] M",
+                "[PixelGrid] L",
+                "[PixelGrid] XL",
+                "[PixelGrid] XXL"
+            ],
+            "colorSchemes": [
+                "Dark (OLED)",
+                "Dark",
+                "Light"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:3",
+                "5:4",
+                "8:7",
+                "19.5:9",
+                "20:9",
+                "21:9",
+                "32:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant and Slide",
+                "Instant"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Homage",
+            "reponame": "homage",
+            "url": "https://github.com/Weestuarty-es-de/homage-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Mask w Textlist",
+                "Mask w Grid",
+                "No Mask w Textlist",
+                "No Mask w Grid",
+                "Mask w Textlist w/systemcol",
+                "Mask w Grid w/systemcol",
+                "No Mask w Textlist w/systemcol",
+                "No Mask w Grid w/systemcol"
+            ],
+            "colorSchemes": [
+                "Universe",
+                "Vintage",
+                "Retro",
+                "Smoke"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Horizon",
+            "reponame": "horizon",
+            "url": "https://github.com/RobZombie9043/horizon-es-de.git",
+            "author": "Rob Zombie",
+            "newEntry": false,
+            "variants": [
+                "List: Detailed",
+                "List: Basic",
+                "Grid (Small): Detailed",
+                "Grid (Small): Basic",
+                "Grid (Medium): Detailed",
+                "Grid (Medium): Basic",
+                "Grid (Large): Detailed",
+                "Grid (Large): Basic",
+                "Carousel"
+            ],
+            "colorSchemes": [
+                "Default",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "19.5:9",
+                "21:9",
+                "32:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Iconic",
+            "reponame": "iconic",
+            "url": "https://github.com/Siddy212/iconic-es-de.git",
+            "author": "Siddy212 and Matt S",
+            "newEntry": false,
+            "variants": [
+                "Textlist",
+                "Textlist - Flipped",
+                "Carousel",
+                "Grid: Boxart",
+                "Grid: Physical Media",
+                "Grid: Titlescreen",
+                "Grid: Marquee",
+                "[Simple] Textlist",
+                "[Simple] Carousel",
+                "[Simple] Grid: Boxart",
+                "[Simple] Grid: Physical Media"
+            ],
+            "colorSchemes": [
+                "Default - Light",
+                "Default - Dark",
+                "Default - Retro Gray",
+                "Classic - Light",
+                "Classic - Dark",
+                "Classic - Retro Gray",
+                "Modern - Light",
+                "Modern - Dark",
+                "Modern - Retro Gray",
+                "Last Played - Light",
+                "Last Played - Dark",
+                "Last Played - Retro Gray",
+                "Custom - Light",
+                "Custom - Dark",
+                "Custom - Retro Gray"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "8:7",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "iiSU Interpreted",
+            "reponame": "iisu-interpreted",
+            "url": "https://github.com/MrVictorFull57/iisu-interpreted-es-de.git",
+            "author": "MrVictorFull and UsagiShade",
+            "newEntry": false,
+            "variants": [
+                "Default",
+                "Without Controller Icons",
+                "Without Clock",
+                "Without Either",
+                "Grid",
+                "Grid Without Either"
+            ],
+            "colorSchemes": [
+                "Light",
+                "Dark",
+                "Blue",
+                "Green",
+                "Teal"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "8:7",
+                "19.5:9",
+                "21:9"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Immersive (Revisited)",
+            "reponame": "immersive-revisited",
+            "url": "https://github.com/anthonycaccese/immersive-revisited-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "variants": [
+                "Background Screenshot",
+                "Background Video"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Mania Menu",
+            "reponame": "mania-menu",
+            "url": "https://github.com/anthonycaccese/mania-menu-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "variants": [
+                "Video",
+                "Screenshot",
+                "Fanart",
+                "Custom"
+            ],
+            "colorSchemes": [
+                "Yellow",
+                "Blue",
+                "Purple"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Meringue",
+            "reponame": "meringue",
+            "url": "https://github.com/kthod861/meringue-es-de.git",
+            "author": "K_thod",
+            "newEntry": false,
+            "variants": [
+                "Grid: Small",
+                "Grid: Medium",
+                "Grid: Large",
+                "Grid: Extra large"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:3_vertical",
+                "21:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "MinUI Menu",
+            "reponame": "minui-menu",
+            "url": "https://github.com/anthonycaccese/minui-menu-es-de.git",
+            "author": "ant and Shaun Inman",
+            "newEntry": false,
+            "variants": [
+                "List",
+                "List: Boxart",
+                "List: Screenshot",
+                "List: Title Screen",
+                "List: Physical Media",
+                "List: Miximage"
+            ],
+            "colorSchemes": [
+                "Dark (Bold Font)",
+                "Light (Bold Font)",
+                "Dark (Normal Font)",
+                "Light (Normal Font)",
+                "Pocket DMG",
+                "Pocket Micro",
+                "Pocket Ace (Dark)",
+                "Pocket Ace (Light)",
+                "Pocket Ace (Retro)",
+                "Amber Terminal",
+                "Green Terminal",
+                "Cyberpunk",
+                "Fallout",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large",
+                "Extra small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:3_vertical",
+                "19.5:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "MiSTer Menu",
+            "reponame": "mister-menu",
+            "url": "https://github.com/anthonycaccese/mister-menu-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "variants": [
+                "Screenshots Off",
+                "Screenshots On"
+            ],
+            "colorSchemes": [
+                "Crisp Mountain Air",
+                "Test Pattern",
+                "Pocky & Rocky",
+                "Custom"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Notepad Pocket",
+            "reponame": "notepad-pocket",
+            "url": "https://github.com/anthonycaccese/notepad-pocket-es-de.git",
+            "author": "Zoidburg and ant",
+            "newEntry": false,
+            "variants": [
+                "Polaroid: Screenshot",
+                "Polaroid: Fanart",
+                "Polaroid: Title Screen"
+            ],
+            "colorSchemes": [
+                "Walnut",
+                "Carpet",
+                "Purple",
+                "Cutting Mat"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "NSO Menu (Interpreted)",
+            "reponame": "nso-menu-interpreted",
+            "url": "https://github.com/anthonycaccese/nso-menu-interpreted-es-de.git",
+            "author": "ant and rog",
+            "newEntry": false,
+            "variants": [
+                "Grid: Boxart",
+                "Grid: Boxart (SteamGridDB)"
+            ],
+            "colorSchemes": [
+                "Default [Controllers]",
+                "Default [Controllers + Screenshots]",
+                "Default [Colorful]",
+                "Default [Colorful + Screenshots]",
+                "Default [Logos + Screenshots]",
+                "Default [Logos + Fanart]",
+                "Default [Screenshots]",
+                "Default [Fanart]",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "8:7",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "NXE Menu",
+            "reponame": "nxe-menu",
+            "url": "https://github.com/anthonycaccese/nxe-menu-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "colorSchemes": [
+                "Default",
+                "Custom"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "P-10 Menu",
+            "reponame": "p-10-menu",
+            "url": "https://github.com/anthonycaccese/p-10-menu-es-de.git",
+            "author": "ant",
+            "newEntry": false,
+            "variants": [
+                "List",
+                "List + Boxart"
+            ],
+            "colorSchemes": [
+                "Playchoice",
+                "Light Blue",
+                "Capcom Purple",
+                "Retro Gray",
+                "Dark Tan",
+                "OLED",
+                "Light",
+                "Custom"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "19.5:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "PlayStation-X",
+            "reponame": "playstation-x",
+            "url": "https://github.com/RobZombie9043/playstation-x-es-de.git",
+            "author": "Rob Zombie and pajarorrojo",
+            "newEntry": false,
+            "variants": [
+                "Carousel (Basic)",
+                "Carousel (Immersive)",
+                "Carousel (Detailed)",
+                "Grid",
+                "Textlist"
+            ],
+            "colorSchemes": [
+                "PS4",
+                "PS4 (No system videos)",
+                "PS4 (Custom)",
+                "PS5",
+                "PS5 (No system videos)",
+                "PS5 (Custom)"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "5:4",
+                "8:7",
+                "19.5:9",
+                "21:9",
+                "32:9",
+                "1:1"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "PS5 Menu",
+            "reponame": "ps5-menu",
+            "url": "https://github.com/InitialDin/ps5-menu-es-de.git",
+            "author": "InitialDin",
+            "newEntry": false,
+            "variants": [
+                "PS5 (Small)",
+                "PS5 (Large)",
+                "PS5 (Small) + XMB (Cover)",
+                "PS5 (Small) + XMB (Minimal)",
+                "PS5 (Small) + XMB (Marquee)",
+                "PS5 (Small) + XMB (Title Screen)",
+                "PS5 (Small) + XMB (Physical Media)",
+                "PS5 (Large) + XMB (Cover)",
+                "PS5 (Large) + XMB (Minimal)",
+                "PS5 (Large) + XMB (Marquee)",
+                "PS5 (Large) + XMB (Title Screen)",
+                "PS5 (Large) + XMB (Physical Media)"
+            ],
+            "colorSchemes": [
+                "Media - Video",
+                "Media - Screenshot",
+                "Media - Mix Image",
+                "Media - Video (Audio Only)",
+                "Media - Video (Audio Only + Screenshot)",
+                "Media - Video (Audio Only + Mix Image)",
+                "Background Video",
+                "Background Video (Screenshot)",
+                "Background Video (Mix Image)",
+                "No Media"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "20:9"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "PSOne-ish",
+            "reponame": "psone-ish",
+            "url": "https://github.com/ShaolinSnake96/psone-ish-es-de.git",
+            "author": "ShaolinSnake96",
+            "newEntry": false,
+            "colorSchemes": [
+                "Default",
+                "Black",
+                "Grey",
+                "Mystic Green",
+                "Red",
+                "Pearl White",
+                "Pink"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "transitions": [
+                "Slide",
+                "Instant",
+                "Fade"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Razor",
+            "reponame": "razor",
+            "url": "https://github.com/Weestuarty-es-de/razor-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "GB w/Metadata(no color)",
+                "Alt w/Metadata(no color)",
+                "LCD w/Metadata(no color)",
+                "GB w/o Metadata (no color)",
+                "Alt w/o Metadata (no color)",
+                "LCD w/o Metadata (no color)",
+                "GB w/Metadata",
+                "LCD w/Metadata",
+                "Alt w/Metadata",
+                "GB w/o Metadata",
+                "LCD w/o Metadata",
+                "Alt w/o Metadata"
+            ],
+            "colorSchemes": [
+                "Game & Watch",
+                "Gameboy",
+                "Classy",
+                "Blue LCD",
+                "Dark",
+                "Yellow"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant",
+                "Instant and slide",
+                "Instant and fade"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Retro Mega (Revisited)",
+            "reponame": "retromega-revisited",
+            "url": "https://github.com/anthonycaccese/retromega-revisited-es-de.git",
+            "author": "ant and djfumberger",
+            "newEntry": false,
+            "variants": [
+                "List: Boxart",
+                "List: Miximage",
+                "List: Screenshot",
+                "List: Title Screen",
+                "List: Physical Media",
+                "Carousel: Boxart",
+                "Basic"
+            ],
+            "colorSchemes": [
+                "Colorful (Light)",
+                "Colorful (Dark)",
+                "DMG",
+                "Famicom",
+                "Indigo (Light)",
+                "Indigo (Dark)",
+                "Retro"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "19.5:9",
+                "21:9"
+            ],
+            "transitions": [
+                "Slide",
+                "Instant + Slide",
+                "Instant"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Retrofix (Revisited)",
+            "reponame": "retrofix-revisited",
+            "url": "https://github.com/anthonycaccese/retrofix-revisited-es-de.git",
+            "author": "ant and 20GotoTen",
+            "newEntry": false,
+            "variants": [
+                "Immersive",
+                "Simple",
+                "Carousel",
+                "Grid"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Saga Diamond",
+            "reponame": "sagadiamond",
+            "url": "https://github.com/Jetup13/sagadiamond-es-de.git",
+            "author": "Jetup",
+            "newEntry": false,
+            "variants": [
+                "Default",
+                "w/ Videos",
+                "w/ Videos & w/o Shadow",
+                "w/ Videos & w/o Shadow/Metadata",
+                "w/o System Metadata",
+                "w/o Shadow",
+                "w/o System Metadata & Shadow"
+            ],
+            "colorSchemes": [
+                "White",
+                "Charcoal",
+                "Lavender",
+                "Mint",
+                "Lime Green",
+                "Baby Blue",
+                "Sky Blue",
+                "Ocean Blue",
+                "Lemon Yellow",
+                "Butter Yellow",
+                "Peach",
+                "Orange",
+                "Burnt Orange",
+                "Cardinal Red",
+                "Strawberry",
+                "Dark Raspberry",
+                "Fuchsia Pink",
+                "Amethyst",
+                "Grape",
+                "Per Console"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "21:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide",
+                "Fade"
+            ],
+            "languages": [
+                "en_US",
+                "es_ES",
+                "fr_FR",
+                "it_IT",
+                "pl_PL",
+                "pt_BR",
+                "ro_RO",
+                "ru_RU",
+                "sv_SE",
+                "ja_JP",
+                "zh_CN"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "shinretro (Revisited)",
+            "reponame": "shinretro-revisited",
+            "url": "https://github.com/RobZombie9043/shinretro-revisited-es-de.git",
+            "author": "Rob Zombie and ant",
+            "newEntry": false,
+            "variants": [
+                "Grid",
+                "Carousel"
+            ],
+            "colorSchemes": [
+                "Dark",
+                "Light",
+                "SteamOS",
+                "shinretro Dark",
+                "Custom - Dark",
+                "Custom - Light",
+                "Custom - SteamOS",
+                "Custom - shinretro Dark"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Showcase",
+            "reponame": "showcase",
+            "url": "https://github.com/Weestuarty-es-de/showcase-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "With per system bands",
+                "With static bands"
+            ],
+            "colorSchemes": [
+                "Greyscale",
+                "Red",
+                "Blue",
+                "Olive",
+                "Golden",
+                "Weestuarty"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "SimCar",
+            "reponame": "simcar",
+            "url": "https://github.com/Weestuarty-es-de/simcar-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "With videos",
+                "Without videos"
+            ],
+            "colorSchemes": [
+                "Gold",
+                "Black & white",
+                "Blue",
+                "Gameboy",
+                "Gameboy Shell",
+                "Retro",
+                "Stay Classy",
+                "Commodore 64",
+                "Chilled",
+                "Purple Rain",
+                "Rusty",
+                "Sega"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "SimpleMenu",
+            "reponame": "simplemenu",
+            "url": "https://github.com/Rose22/simplemenu-es-de.git",
+            "author": "Rose22",
+            "newEntry": false,
+            "variants": [
+                "Default background | Images behind game list",
+                "Default background | Videos behind game list",
+                "Default background | No media in game list",
+                "Custom background | Images behind game list",
+                "Custom background | Videos behind game list",
+                "Custom background | No media in game list",
+                "No background & No media"
+            ],
+            "colorSchemes": [
+                "Monochrome",
+                "Red",
+                "Green",
+                "Blue",
+                "Gold",
+                "Pink",
+                "Purple"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Slick (Remixed)",
+            "reponame": "slick",
+            "url": "https://github.com/Weestuarty-es-de/slick-es-de.git",
+            "author": "Weestuarty and buzz",
+            "newEntry": false,
+            "variants": [
+                "Grid Gamelist",
+                "Carousel Gamelist",
+                "Text Gamelist"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Smooth",
+            "reponame": "smooth",
+            "url": "https://github.com/Weestuarty-es-de/smooth-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Carousel",
+                "Grid",
+                "Textlist"
+            ],
+            "colorSchemes": [
+                "OLED",
+                "Grey",
+                "Classy",
+                "Historia",
+                "Z25"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "transitions": [
+                "Instant and slide",
+                "Instant",
+                "Fade"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "SuperStation One Menu",
+            "reponame": "superstation-one-menu",
+            "url": "https://github.com/anthonycaccese/superstation-one-menu-es-de.git",
+            "author": "ant and RetroRemake",
+            "newEntry": false,
+            "variants": [
+                "List",
+                "List: Boxart",
+                "List: Screenshot",
+                "List: Title Screen",
+                "List: Physical Media",
+                "List: Miximage",
+                "Carousel: Boxart"
+            ],
+            "colorSchemes": [
+                "Black",
+                "Green",
+                "Blue",
+                "Red",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "8:7",
+                "19.5:9",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "TateGriddy",
+            "reponame": "tategriddy",
+            "url": "https://github.com/Weestuarty-es-de/tategriddy-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Grid with videos",
+                "Grid without videos",
+                "Carousel with videos",
+                "Carousel without videos"
+            ],
+            "colorSchemes": [
+                "Greyscale",
+                "Blue",
+                "Gold",
+                "Retro",
+                "Stay Classy",
+                "Chilled",
+                "Purple Rain",
+                "Primary"
+            ],
+            "aspectRatios": [
+                "16:9_vertical",
+                "16:10_vertical",
+                "4:3_vertical"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "TechDweeb",
+            "reponame": "techdweeb",
+            "url": "https://github.com/anthonycaccese/techdweeb-es-de.git",
+            "author": "TechDweeb and ant",
+            "newEntry": false,
+            "variants": [
+                "List: Metadata, Screenshot & Marquee",
+                "List: Metadata, Screenshot & Boxart",
+                "List: Screenshot",
+                "Carousel: Boxart"
+            ],
+            "colorSchemes": [
+                "Orange Stuff",
+                "Purple Slime",
+                "Aqua Slush",
+                "Green Ooze",
+                "Pink Fluff",
+                "Blue Goo",
+                "Red Squish",
+                "Grey Gunk",
+                "DMG Dungeon",
+                "Custom Chaos"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "1:1"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "TexGriddy",
+            "reponame": "texgriddy",
+            "url": "https://github.com/Weestuarty-es-de/texgriddy-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Grid with videos",
+                "Grid without videos",
+                "Textlist with videos",
+                "Textlist without videos"
+            ],
+            "colorSchemes": [
+                "Greyscale",
+                "Blue",
+                "Gold",
+                "Retro",
+                "Stay Classy",
+                "Chilled",
+                "Purple Rain",
+                "Primary"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant w/Fade",
+                "Instant"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Unreleased",
+            "reponame": "unreleased",
+            "url": "https://github.com/Weestuarty-es-de/unreleased-es-de.git",
+            "author": "Weestuarty",
+            "newEntry": false,
+            "variants": [
+                "Metadata",
+                "Grid",
+                "Carousel",
+                "Carousel w/video"
+            ],
+            "colorSchemes": [
+                "OLED",
+                "Cyan",
+                "Magenta",
+                "Invert",
+                "Classy",
+                "Cheese",
+                "Red",
+                "Green",
+                "Blue"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Extra large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "19.5:9",
+                "20:9",
+                "21:9"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "X20s",
+            "reponame": "x20s",
+            "url": "https://github.com/ShaolinSnake96/x20s-es-de.git",
+            "author": "ShaolinSnake96",
+            "newEntry": false,
+            "colorSchemes": [
+                "PS2",
+                "Xbox",
+                "GameCube",
+                "Dreamcast",
+                "Windows XP"
+            ],
+            "fontSizes": [
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "19.5:9"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide",
+                "Fade"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "X-Grid",
+            "reponame": "x-grid",
+            "url": "https://github.com/ugurkinik/x-grid-es-de.git",
+            "author": "Ugur Kinik",
+            "newEntry": false,
+            "variants": [
+                "[System:M] [Game:S] Marquee w/ Video",
+                "[System:M] [Game:S] Marquee wo/ Video",
+                "[System:M] [Game:S] Cover w/ Video",
+                "[System:M] [Game:S] Cover wo/ Video",
+                "[System:M] [Game:M] Marquee w/ Video",
+                "[System:M] [Game:M] Marquee wo/ Video",
+                "[System:M] [Game:M] Cover w/ Video",
+                "[System:M] [Game:M] Cover wo/ Video",
+                "[System:M] [Game:L] Marquee w/ Video",
+                "[System:M] [Game:L] Marquee wo/ Video",
+                "[System:M] [Game:L] Cover w/ Video",
+                "[System:M] [Game:L] Cover wo/ Video",
+                "[System:L] [Game:S] Marquee w/ Video",
+                "[System:L] [Game:S] Marquee wo/ Video",
+                "[System:L] [Game:S] Cover w/ Video",
+                "[System:L] [Game:S] Cover wo/ Video",
+                "[System:L] [Game:M] Marquee w/ Video",
+                "[System:L] [Game:M] Marquee wo/ Video",
+                "[System:L] [Game:M] Cover w/ Video",
+                "[System:L] [Game:M] Cover wo/ Video",
+                "[System:L] [Game:L] Marquee w/ Video",
+                "[System:L] [Game:L] Marquee wo/ Video",
+                "[System:L] [Game:L] Cover w/ Video",
+                "[System:L] [Game:L] Cover wo/ Video"
+            ],
+            "colorSchemes": [
+                "Monochrome",
+                "Dark Orange",
+                "Dark Gold",
+                "Light Orange",
+                "Pip-Boy",
+                "Pocket Gray",
+                "Super Game Boy",
+                "Crimson",
+                "PlayStation 4",
+                "PlayStation 5",
+                "Xbox 360",
+                "Xbox One",
+                "Switch OLED",
+                "Gamecube",
+                "Indigo",
+                "Purple",
+                "WII"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide",
+                "Fade"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "XMB Menu",
+            "reponame": "xmb-menu",
+            "url": "https://github.com/anthonycaccese/xmb-menu-es-de.git",
+            "author": "InitialDin and ant",
+            "newEntry": false,
+            "variants": [
+                "Carousel: Boxart",
+                "Carousel: Boxart + Marquee",
+                "Carousel: Title Screen",
+                "Carousel: Title Screen + Marquee",
+                "Carousel: Physical Media",
+                "Carousel: Physical Media + Marquee",
+                "Carousel: Marquee"
+            ],
+            "colorSchemes": [
+                "Blue (PSP Video Background)",
+                "Violet (PSP Video Background)",
+                "Lavender (PSP Video Background)",
+                "Pink (PSP Video Background)",
+                "Red (PSP Video Background)",
+                "Orange (PSP Video Background)",
+                "Yellow (PSP Video Background)",
+                "Green (PSP Video Background)",
+                "Duotone (PSP Video Background)",
+                "Turquoise (PSP Video Background)",
+                "Brown (PSP Video Background)",
+                "Gray (PSP Video Background)",
+                "Blue (PS3 Video Background)",
+                "Violet (PS3 Video Background)",
+                "Lavender (PS3 Video Background)",
+                "Pink (PS3 Video Background)",
+                "Red (PS3 Video Background)",
+                "Orange (PS3 Video Background)",
+                "Yellow (PS3 Video Background)",
+                "Green (PS3 Video Background)",
+                "Duotone (PS3 Video Background)",
+                "Turquoise (PS3 Video Background)",
+                "Brown (PS3 Video Background)",
+                "Gray (PS3 Video Background)",
+                "OLED (PS3 Video Background)",
+                "Blue",
+                "Violet",
+                "Lavender",
+                "Pink",
+                "Red",
+                "Orange",
+                "Yellow",
+                "Green",
+                "Duotone",
+                "Turquoise",
+                "Brown",
+                "Gray",
+                "OLED",
+                "Custom"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large",
+                "Small"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "3:2",
+                "4:3",
+                "8:7",
+                "20:9",
+                "1:1"
+            ],
+            "transitions": [
+                "Instant",
+                "Slide"
+            ],
+            "screenshots": []
+        }
+    ],
+    "themesAndroid": [
+        {
+            "name": "Modern",
+            "reponame": "modern",
+            "url": "https://gitlab.com/es-de/themes/modern-es-de.git",
+            "author": "Sophia Hadash and lilbud",
+            "newEntry": false,
+            "variants": [
+                "Textlist with videos",
+                "Textlist without videos",
+                "Textlist with videos (legacy)",
+                "Textlist without videos (legacy)"
+            ],
+            "colorSchemes": [
+                "Dark",
+                "Light"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:10",
+                "4:3",
+                "21:9"
+            ],
+            "transitions": [
+                "Instant",
+                "Instant and slide",
+                "Instant and fade"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "cs_CZ",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "vi_VN",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        },
+        {
+            "name": "Slate",
+            "reponame": "slate",
+            "url": "https://gitlab.com/es-de/themes/slate-es-de.git",
+            "author": "ES-DE project and Recalbox project",
+            "newEntry": false,
+            "variants": [
+                "Textlist with videos",
+                "Textlist without videos"
+            ],
+            "colorSchemes": [
+                "Dark",
+                "Light"
+            ],
+            "fontSizes": [
+                "Medium",
+                "Large"
+            ],
+            "aspectRatios": [
+                "16:9",
+                "16:9 vertical",
+                "4:3",
+                "4:3 vertical"
+            ],
+            "transitions": [
+                "Slide",
+                "Instant",
+                "Fade"
+            ],
+            "languages": [
+                "en_US",
+                "en_GB",
+                "bs_BA",
+                "ca_ES",
+                "cs_CZ",
+                "de_DE",
+                "es_ES",
+                "fr_FR",
+                "hr_HR",
+                "it_IT",
+                "nl_NL",
+                "pl_PL",
+                "pt_BR",
+                "pt_PT",
+                "ro_RO",
+                "ru_RU",
+                "sr_RS",
+                "sv_SE",
+                "vi_VN",
+                "ar_SA",
+                "ja_JP",
+                "ko_KR",
+                "zh_CN",
+                "zh_TW"
+            ],
+            "screenshots": []
+        }
+    ]
+}
